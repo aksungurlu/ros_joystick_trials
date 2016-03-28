@@ -1,8 +1,0 @@
-<launch>
-
-	<group>
-		
-		<node pkg="joystick_trials" name="lis" type="listener_ver3" />
-	</group>
-
-</launch>
